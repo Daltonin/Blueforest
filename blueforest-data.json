@@ -1,0 +1,825 @@
+{
+  "obras": [
+    {
+      "id": "tornos-001",
+      "codigoCliente": "tornos2026",
+      "nombre": "Reforma Tornos Abogados",
+      "cliente": "Tornos Abogados SLP",
+      "ubicacion": "C/ Muntaner 292, 1º 2ª, 08021 Barcelona",
+      "estado": "en_curso",
+      "presupuesto": 0,
+      "gastado": 0,
+      "fechaInicio": "2026-06-15",
+      "fechaFin": "2026-08-15",
+      "color": "#9A6F3A",
+      "contactoCliente": "Emilia Caralt (Milu)",
+      "telefonoCliente": "932006586",
+      "emailCliente": "info@tornosabogados.com",
+      "arquitecto_nombre": "Víctor Ferrer i Soler",
+      "arquitecto_tel": "627299706",
+      "arquitecto_email": "vitico@coac.net",
+      "arquitecto_nif": "46730196S",
+      "arquitecto_estudio": "AFAC arquitectura i ciutat",
+      "fases": [
+        {
+          "id": "fase-0",
+          "nombre": "Fase 0 — Licencias y permisos",
+          "estado": "en_curso",
+          "inicio": "2026-05-17",
+          "fin": "2026-06-15"
+        },
+        {
+          "id": "fase-1",
+          "nombre": "Fase 1 — Entrada y despachos frontales",
+          "estado": "pendiente",
+          "inicio": "2026-06-15",
+          "fin": "2026-07-06"
+        },
+        {
+          "id": "fase-2",
+          "nombre": "Fase 2 — Pasillo, administración, cocina y sala juntas",
+          "estado": "pendiente",
+          "inicio": "2026-07-07",
+          "fin": "2026-08-15"
+        }
+      ],
+      "tareas": [
+        {
+          "id": "t1",
+          "titulo": "Presupuesto aires acondicionados Nabil",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "Nabil"
+        },
+        {
+          "id": "t2",
+          "titulo": "Presupuesto stores",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": ""
+        },
+        {
+          "id": "t3",
+          "titulo": "Verificar caldera con Nabil",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "Nabil"
+        },
+        {
+          "id": "t4",
+          "titulo": "Confirmar si caben mesas Nuria Roger 80x180 en despacho semicircular",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": ""
+        },
+        {
+          "id": "t5",
+          "titulo": "Confirmar tipo escritorios con Alfonso",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "Alfonso"
+        },
+        {
+          "id": "t6",
+          "titulo": "Sacar archivos fuera antes de obras",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "Milu"
+        },
+        {
+          "id": "t7",
+          "titulo": "Actualizar presupuesto Manolo",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "Manolo Molina"
+        },
+        {
+          "id": "t8",
+          "titulo": "Arreglar LED despegado planta 2",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t9",
+          "titulo": "Hacer 2 melaminas 175x65x1cm planta 2",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t10",
+          "titulo": "Proponer mantenimiento aires planta 2 a Nabil",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t11",
+          "titulo": "Pasar planos a David Tébar y Manolo para calcular cables incluyendo sala juntas",
+          "estado": "completada",
+          "prioridad": "alta",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t12",
+          "titulo": "Enviar documentación actualizada a Núñez y Navarro",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t13",
+          "titulo": "Hablar con Núñez y Navarro sobre palomas",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "Milu"
+        },
+        {
+          "id": "t14",
+          "titulo": "Confirmar con Alfonso si mover caldera a habitación fotocopiadora",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "Alfonso"
+        },
+        {
+          "id": "t15",
+          "titulo": "Presupuesto cableado Brunbit (David Tébar)",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "David Tébar"
+        },
+        {
+          "id": "t16",
+          "titulo": "Presupuesto carpintero 12-13 puestos nuevos",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t17",
+          "titulo": "Proponer mantenimiento semestral aires planta 2 a Nabil",
+          "estado": "pendiente",
+          "prioridad": "baja",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t18",
+          "titulo": "Hablar con Encarna despacho redondo",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David Toro"
+        },
+        {
+          "id": "t19",
+          "titulo": "Confirmar Alfonso encimera baño grande (Sant Mori)",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "Alfonso"
+        },
+        {
+          "id": "t20",
+          "titulo": "Definir iluminación sala juntas y cocina",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David Toro"
+        }
+      ],
+      "proveedores": [
+        {
+          "id": "prov-1",
+          "nombre": "Manolo Molina",
+          "especialidad": [
+            "Constructor / Albañilería"
+          ],
+          "telefono": "630573111",
+          "email": "",
+          "contacto": "Manuel Molina Hidalgo",
+          "estado": "pendiente",
+          "importe": 0,
+          "notas": "Presupuesto P-2025-0033 — 26/05/2026"
+        },
+        {
+          "id": "prov-2",
+          "nombre": "Christian",
+          "especialidad": [
+            "Moqueta / Suelos"
+          ],
+          "telefono": "932011049",
+          "email": "",
+          "contacto": "Christian",
+          "estado": "pendiente",
+          "importe": 0,
+          "iban": "ES16-2100-1056-1102-0012-2649"
+        },
+        {
+          "id": "prov-3",
+          "nombre": "Jordi",
+          "especialidad": [
+            "Cristalero / Vidriería"
+          ],
+          "telefono": "650066038",
+          "email": "",
+          "contacto": "Jordi",
+          "estado": "pendiente",
+          "importe": 0,
+          "notas": "Phone booth cristal 2.41x4m",
+          "iban": "ES93 2100 0867 0001 0187 810"
+        },
+        {
+          "id": "prov-4",
+          "nombre": "Nabil",
+          "especialidad": [
+            "Climatización / Aires"
+          ],
+          "telefono": "662174195",
+          "email": "",
+          "contacto": "Nabil",
+          "estado": "pendiente",
+          "importe": 0
+        },
+        {
+          "id": "prov-5",
+          "nombre": "David Tébar (Brunbit)",
+          "especialidad": [
+            "Cableado / IT"
+          ],
+          "telefono": "657243760",
+          "email": "",
+          "contacto": "David Tébar",
+          "estado": "pendiente",
+          "importe": 0,
+          "notas": "Cableado Cat6 — conexiones y configuración red"
+        },
+        {
+          "id": "prov-6",
+          "nombre": "Víctor Ferrer i Soler",
+          "especialidad": [
+            "Arquitecto"
+          ],
+          "telefono": "627299706",
+          "email": "vitico@coac.net",
+          "contacto": "Víctor Ferrer i Soler",
+          "estado": "activo",
+          "importe": 0,
+          "notas": "AFAC arquitectura i ciutat. Proyecto O-3b presentado 13/05/2026"
+        },
+        {
+          "id": "prov-7",
+          "nombre": "blueforestbcn",
+          "especialidad": [
+            "Decorador"
+          ],
+          "telefono": "",
+          "email": "www.blueforestbcn.com",
+          "contacto": "Manuel David Toro Oliva",
+          "estado": "pendiente",
+          "importe": 0,
+          "notas": "Presupuesto BF-2026-001 — Diseño, compras y coordinación de obra"
+        }
+      ],
+      "presupuestosRecibidos": [
+        {
+          "id": "pr-1",
+          "proveedorNombre": "Manolo Molina",
+          "numeroPres": "P-2025-0033",
+          "partida": "Reforma general",
+          "base": 54492.41,
+          "iva": 21,
+          "importe": 65935.81,
+          "fecha": "2026-05-26",
+          "estado": "pendiente",
+          "notas": "Presupuesto definitivo. Válido hasta 07/10/2025 — pedir actualizar fecha",
+          "version": 2
+        },
+        {
+          "id": "pr-2",
+          "proveedorNombre": "blueforestbcn",
+          "numeroPres": "BF-2026-001",
+          "partida": "Diseño de espacios, gestión y coordinación de obra",
+          "base": 5000,
+          "iva": 21,
+          "importe": 6050,
+          "fecha": "2026-05-26",
+          "estado": "pendiente",
+          "notas": ""
+        },
+        {
+          "id": "9y6jxat",
+          "proveedorNombre": "Christian",
+          "partida": "moqueta",
+          "numeroPres": "30597",
+          "base": 10288.75,
+          "iva": 21,
+          "importe": 12449.39,
+          "fecha": "2026-05-20",
+          "estado": "pendiente",
+          "notas": "",
+          "version": 1.2,
+          "creadoEn": "5/6/2026, 23:31:10"
+        },
+        {
+          "id": "4ea18yt",
+          "proveedorNombre": "Christian",
+          "partida": "moqueta",
+          "numeroPres": "30599",
+          "base": 18609.75,
+          "iva": 21,
+          "importe": 22517.8,
+          "fecha": "2026-05-20",
+          "estado": "pendiente",
+          "notas": "",
+          "version": 1,
+          "creadoEn": "5/6/2026, 23:34:34"
+        },
+        {
+          "id": "50tgriz",
+          "proveedorNombre": "Christian",
+          "partida": "moqueta",
+          "numeroPres": "30600",
+          "base": 13972.25,
+          "iva": 21,
+          "importe": 16906.42,
+          "fecha": "2026-05-20",
+          "estado": "pendiente",
+          "notas": "",
+          "version": 1,
+          "creadoEn": "5/6/2026, 23:35:17"
+        },
+        {
+          "id": "kusxldd",
+          "proveedorNombre": "Jordi",
+          "partida": "Cristal phone call",
+          "numeroPres": "",
+          "base": 2689.5,
+          "iva": 21,
+          "importe": 3254.3,
+          "fecha": "2026-05-19",
+          "estado": "pendiente",
+          "notas": "",
+          "version": 1,
+          "creadoEn": "5/6/2026, 23:36:52"
+        }
+      ],
+      "notas": "INFORME TÉCNICO NABIL — AIRES ACONDICIONADOS (26/05/2026): Los aires existentes NO pueden subirse a la terraza por gas obsoleto y distancia tuberías excesiva. Se recomienda mantener en ubicación actual. Sala Router: sustituir por equipo Fujitsu Multisplit 2x1 ref.25069332 (2.150+2.924 frigorías) para dar servicio a sala Router y sala Phone Call. Precio suministro e instalación 2.550€+IVA. Tuberías Router en mal estado, sustituir.\n\nMESA RECEPCIÓN: Roble macizo bisel 3-4cm. Medidas: primer tramo 1.59m largo × 0.94m prof. Diagonal 1.33m. Tramo corto 0.27m. Profundidad zona derecha 0.70m. Entrante 0.56m. Segundo tramo 1.55m largo × 0.70m prof.",
+      "docsArquitecto": [
+        {
+          "id": "proyecto_basico",
+          "label": "Proyecto Básico",
+          "estado": "no_aplica",
+          "fechaEntrega": "",
+          "notas": "",
+          "expediente": "",
+          "organismo": ""
+        },
+        {
+          "id": "proyecto_ejecucion",
+          "label": "Proyecto de Ejecución",
+          "estado": "en_tramite",
+          "fechaEntrega": "2026-05-13",
+          "notas": "Comunicat Immediat d'Obres O-3b presentado 13/05/2026",
+          "expediente": "pendiente",
+          "organismo": "Entitats col·laboradores Ajuntament de Barcelona"
+        },
+        {
+          "id": "licencia_obras",
+          "label": "Licencia de Obras",
+          "estado": "en_tramite",
+          "fechaEntrega": "",
+          "notas": "Pendiente resolución 2-4 semanas desde presentación",
+          "expediente": "pendiente",
+          "organismo": "Ajuntament de Barcelona"
+        },
+        {
+          "id": "visado_coac",
+          "label": "Visado COAC/COACB",
+          "estado": "recibido",
+          "fechaEntrega": "2026-05-13",
+          "notas": "",
+          "expediente": "",
+          "organismo": "COAC"
+        }
+      ],
+      "actasHistorial": [
+        {
+          "id": "acta-1",
+          "titulo": "Reunión de obra Reforma Tornos — 19/05/2026",
+          "fecha": "19/05/2026",
+          "hora": "10:30",
+          "lugar": "Muntaner 292, 1º 2ª Barcelona",
+          "asistentes": "David Toro, Emilia Caralt (Milu)",
+          "archivadaEn": "19/05/2026, 10:30:00",
+          "puntos": [
+            {
+              "id": "p1",
+              "texto": "Moqueta gris+verde aprobado",
+              "responsable": "Christian",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p2",
+              "texto": "Inicio obras 15 junio pendiente",
+              "responsable": "Manolo",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p3",
+              "texto": "Licencia presentada pendiente",
+              "responsable": "",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p4",
+              "texto": "Baño pequeño toba catalana aprobado",
+              "responsable": "Manolo",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p5",
+              "texto": "Baño grande dekton 2 picas aprobado",
+              "responsable": "Manolo",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p6",
+              "texto": "Recepción mesa igual planta 2 pendiente",
+              "responsable": "David Toro",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p7",
+              "texto": "Despacho semicircular 2 puestos nuevos aprobado",
+              "responsable": "",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p8",
+              "texto": "Despacho Roger y Nuria 3 mesas aprobado",
+              "responsable": "",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p9",
+              "texto": "Despacho Milu+Sabine unificado 5 puestos aprobado",
+              "responsable": "Manolo",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p10",
+              "texto": "Phone booth cristal 2.41x4m pendiente",
+              "responsable": "Jordi",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p11",
+              "texto": "Cocina nueva verde corporativo tabique pladur aprobado",
+              "responsable": "Manolo",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p12",
+              "texto": "Sala juntas abrir puerta aprobado",
+              "responsable": "Manolo",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p13",
+              "texto": "Stores cambiar todos pendiente",
+              "responsable": "David Toro",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p14",
+              "texto": "Aires subir azotea pendiente",
+              "responsable": "Nabil",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p15",
+              "texto": "Cableado Cat6 Brunbit pendiente",
+              "responsable": "David Tébar",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p16",
+              "texto": "Presupuesto Manolo actualizar pendiente",
+              "responsable": "",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p17",
+              "texto": "Archivos sacar fuera pendiente",
+              "responsable": "Milu",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p18",
+              "texto": "Palomas hablar Núñez y Navarro pendiente",
+              "responsable": "Milu",
+              "estado": "pendiente"
+            }
+          ]
+        },
+        {
+          "id": "acta-2",
+          "titulo": "Reunión de coordinación de obra — 21/05/2026",
+          "fecha": "21/05/2026",
+          "hora": "10:00",
+          "lugar": "Muntaner 292, 1º 2ª Barcelona",
+          "asistentes": "David Toro, Emilia Caralt (Milu), Manolo Molina, Nabil, David Tébar (Brunbit)",
+          "archivadaEn": "21/05/2026, 10:00:00",
+          "puntos": [
+            {
+              "id": "p1",
+              "texto": "Cableado nuevo por canaleta/zócalo. Manolo pasa cables, David Tébar hace conexiones",
+              "responsable": "",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p2",
+              "texto": "Plano necesario para calcular cables incluyendo sala juntas",
+              "responsable": "David Toro",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p3",
+              "texto": "Presupuesto actualizado Manolo entrega lunes 25/05",
+              "responsable": "Manolo",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p4",
+              "texto": "Grupo WhatsApp creado con todos los industriales",
+              "responsable": "",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p5",
+              "texto": "Caldera posible mover a habitación fotocopiadora — pendiente decisión Alfonso",
+              "responsable": "Alfonso",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p6",
+              "texto": "Aires instalación nueva azotea con espacio futuras sustituciones",
+              "responsable": "Nabil",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p7",
+              "texto": "Mantenimiento semestral aires 2 veces al año",
+              "responsable": "Nabil",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p8",
+              "texto": "Stores medidas tomadas por zona",
+              "responsable": "",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p9",
+              "texto": "Puestos totales 47 confirmados",
+              "responsable": "",
+              "estado": "aprobado"
+            },
+            {
+              "id": "p10",
+              "texto": "Puestos nuevos carpintero 12-13 — pendiente presupuesto",
+              "responsable": "David Toro",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p11",
+              "texto": "Planta 2: LED despegado arreglar, 2 melaminas 175x65x1cm hacer",
+              "responsable": "David Toro",
+              "estado": "pendiente"
+            },
+            {
+              "id": "p12",
+              "texto": "Mantenimiento aires proponer también planta 2",
+              "responsable": "David Toro",
+              "estado": "pendiente"
+            }
+          ]
+        }
+      ],
+      "fotos": [
+        {
+          "id": "q25rrau",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "6xqqzgk",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "lbahngb",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "suerhay",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "fhb5wha",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "q25t2al",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "l3b3fd7",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "8af8p8d",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "0eyvk4o",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "7s6q8j2",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": null,
+          "cambiosIA": null,
+          "tipo": "actual"
+        },
+        {
+          "id": "8dna7og",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": 65,
+          "cambiosIA": [
+            "Lavabo instalado y funcional",
+            "Grifo cromado instalado",
+            "Espejo colocado",
+            "Dispensador de papel instalado en pared",
+            "Dispensador de jabón presente",
+            "Azulejos blancos colocados en paredes",
+            "Ventana con vidrio translúcido instalada",
+            "Interruptor/pulsador eléctrico montado",
+            "Mueble base bajo lavabo presente"
+          ],
+          "tipo": "actual",
+          "faltantesIA": [
+            "Acabado y pintura de paredes sin alicatar",
+            "Sellado de juntas y remates del espejo",
+            "Instalación de luminaria definitiva",
+            "Remate inferior del mueble base incompleto",
+            "Limpieza de obra pendiente",
+            "Accesorios finales (toallero, portarrollos)",
+            "Revisión de cableado visible en pared izquierda",
+            "Rodapié o zócalo inferior ausente"
+          ],
+          "observacionIA": "El baño presenta instalaciones básicas funcionales completadas pero quedan acabados, remates y elementos decorativos pendientes. Se detecta presencia de herramientas de obra (cinta métrica) indicando trabajos aún en curso.",
+          "comparadoCon": null
+        },
+        {
+          "id": "1e4liq0",
+          "zona": "General",
+          "fecha": "7/6/2026",
+          "fechaISO": "2026-06-07",
+          "notas": "",
+          "avanceIA": 75,
+          "cambiosIA": [
+            "Inodoro instalado y funcional",
+            "Alicatado de paredes completado",
+            "Solado de parquet/vinilo instalado",
+            "Portarrollos de papel higiénico colocado",
+            "Papelera presente",
+            "Tubería de suministro visible en pared posterior",
+            "Soporte metálico tipo barra instalado en pared lateral derecha"
+          ],
+          "tipo": "actual",
+          "faltantesIA": [
+            "Tapa/cisterna no visible - posible cisterna empotrada sin acabar",
+            "Sellado de juntas entre inodoro y suelo incompleto",
+            "Rejilla o tapa de instalaciones en pared posterior sin cubrir",
+            "Limpieza final de obra pendiente",
+            "Posible falta de tapa en dispensador de papel (caja abierta)",
+            "Revisión de tuberías vistas que deberían ir empotradas o con cubre-tuberías"
+          ],
+          "observacionIA": "El aseo presenta un avance significativo con los elementos principales instalados, pero se detectan acabados incompletos especialmente en la conexión del inodoro y tuberías vistas. Se requiere revisión de sellados y limpieza final antes de considerar la zona terminada.",
+          "comparadoCon": null
+        }
+      ],
+      "materiales": [
+        {
+          "id": "7my8yvu",
+          "nombre": "baldosa",
+          "referencia": "deee888",
+          "categoria": "revestimiento",
+          "proveedor": "neoceramica",
+          "cantidad": 10,
+          "unidad": "m²",
+          "precioBase": 20,
+          "ivaPorc": 21,
+          "faseId": "",
+          "fechaNecesaria": "",
+          "estado": "pendiente",
+          "notas": "",
+          "enlace": "",
+          "critico": false,
+          "precioUnit": 20,
+          "historial": [],
+          "incluir": true
+        },
+        {
+          "id": "jf9zsq0",
+          "partida": "lavabo",
+          "nombre": "foco",
+          "proveedor": "luz negra",
+          "cantidad": 10,
+          "unidad": "ud",
+          "precioBase": 10,
+          "ivaPorc": 21,
+          "estado": "confirmado",
+          "notas": "",
+          "enlace": "",
+          "precioUnit": 10,
+          "incluir": true,
+          "historial": []
+        },
+        {
+          "id": "p01tcj7",
+          "partida": "despacho 1",
+          "nombre": "foco",
+          "proveedor": "luz negra",
+          "cantidad": 6,
+          "unidad": "ud",
+          "precioBase": 10,
+          "ivaPorc": 21,
+          "estado": "pendiente",
+          "notas": "",
+          "enlace": "",
+          "precioUnit": 10,
+          "incluir": true,
+          "historial": []
+        }
+      ]
+    }
+  ]
+}
