@@ -851,6 +851,20 @@
           "incluir": true,
           "historial": []
         }
+      ],
+      "presupuestosCliente": [
+        {
+          "id": "9xipneg",
+          "nombre": "David toro",
+          "notas": "seguimiento de obra y diseño\n",
+          "fecha": "1/8/2026",
+          "validez": 30,
+          "condiciones": "",
+          "iva": 21,
+          "estado": "borrador",
+          "lineas": [],
+          "generadoIA": false
+        }
       ]
     }
   ]
