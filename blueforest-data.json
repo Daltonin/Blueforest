@@ -862,7 +862,17 @@
           "condiciones": "",
           "iva": 21,
           "estado": "borrador",
-          "lineas": [],
+          "lineas": [
+            {
+              "id": "npkopys",
+              "descripcion": "",
+              "unidad": "ud",
+              "cantidad": 1,
+              "precioUnit": 0,
+              "descuento": 0,
+              "categoria": "Mano de obra"
+            }
+          ],
           "generadoIA": false
         }
       ]
