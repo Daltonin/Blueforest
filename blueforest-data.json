@@ -875,6 +875,12 @@
           ],
           "generadoIA": false
         }
+      ],
+      "claudeHistorial": [
+        {
+          "role": "assistant",
+          "content": "Hola! Soy Claude, tu asistente para la obra **Reforma Tornos Abogados**.\n\nPuedo ayudarte a:\n- 📋 Añadir tareas, fases o incidencias\n- 👷 Registrar proveedores y presupuestos\n- 📅 Actualizar fechas de inicio y fin\n- 📝 Añadir puntos al acta de reunión\n- 💶 Registrar costes y cobros\n\nCuéntame qué ha pasado en la obra y lo actualizo todo automáticamente."
+        }
       ]
     }
   ]
