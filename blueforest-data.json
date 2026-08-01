@@ -183,6 +183,13 @@
           "estado": "pendiente",
           "prioridad": "media",
           "responsable": "David Toro"
+        },
+        {
+          "titulo": "Carpintero: valorar montaje de mesas compradas",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "",
+          "id": "t21"
         }
       ],
       "proveedores": [
