@@ -197,6 +197,13 @@
           "prioridad": "alta",
           "responsable": "",
           "id": "t22"
+        },
+        {
+          "titulo": "Instalar transformadores de las lámparas",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "",
+          "id": "t23"
         }
       ],
       "proveedores": [
