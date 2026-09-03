@@ -2113,6 +2113,13 @@
           "prioridad": "media",
           "responsable": "David",
           "id": "t3"
+        },
+        {
+          "titulo": "Facturar a Fouad el 50% restante de honorarios al finalizar la obra",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David",
+          "id": "t4"
         }
       ],
       "proveedores": [],
