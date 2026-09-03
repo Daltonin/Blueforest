@@ -190,6 +190,13 @@
           "prioridad": "media",
           "responsable": "",
           "id": "t21"
+        },
+        {
+          "titulo": "Sustituir zócalos en mal estado (detectados al retirar los antiguos)",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "",
+          "id": "t22"
         }
       ],
       "proveedores": [
