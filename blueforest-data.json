@@ -2099,6 +2099,13 @@
           "estado": "pendiente",
           "prioridad": "alta",
           "responsable": "David"
+        },
+        {
+          "titulo": "Confirmar con el vecino/comunidad el acceso de mantenimiento al aire acondicionado (queda tras el tabique insonorizado de la terraza cerrada)",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David",
+          "id": "t2"
         }
       ],
       "proveedores": [],
