@@ -218,6 +218,13 @@
           "prioridad": "baja",
           "responsable": "",
           "id": "t25"
+        },
+        {
+          "titulo": "Pintor: repasar un par de detalles pendientes",
+          "estado": "pendiente",
+          "prioridad": "baja",
+          "responsable": "",
+          "id": "t26"
         }
       ],
       "proveedores": [
