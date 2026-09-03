@@ -2083,7 +2083,7 @@
       "cliente": "Fouad Tannous",
       "ubicacion": "Platja d'Aro",
       "estado": "presupuesto",
-      "presupuesto": 0,
+      "presupuesto": 20000,
       "gastado": 0,
       "fechaInicio": "",
       "fechaFin": "",
@@ -2113,7 +2113,7 @@
       "incidencias": [],
       "materiales": [],
       "presupuestosCliente": [],
-      "notas": "Cliente nuevo, referido por su pareja (David ya reformo un piso para ella). Apartamento de 20 m2 en Avenida Costa Brava 23, Edificio Elypalace, Platja d'Aro 17250 Girona (area habitable 12,20 m2, total con terraza 25,81 m2, sin terraza 16,71 m2, altura 233 cm). Planos completos (estado actual, derribos, alzados de paredes, electrico, agua, diseno final, microcemento bano, pavimento, cocina) ya hechos y corregidos el 2026-09-03 (logo propio, tipografia y numeracion de laminas 1-9) y enviados al cliente. Pendiente: presupuesto de obra de Manolo para poder cerrar el trabajo."
+      "notas": "Cliente nuevo, referido por su pareja (David ya reformo un piso para ella). Apartamento de 20 m2 en Avenida Costa Brava 23, Edificio Elypalace, Platja d'Aro 17250 Girona (area habitable 12,20 m2, total con terraza 25,81 m2, sin terraza 16,71 m2, altura 233 cm). Planos completos (estado actual, derribos, alzados de paredes, electrico, agua, diseno final, microcemento bano, pavimento, cocina) ya hechos y corregidos el 2026-09-03 (logo propio, tipografia y numeracion de laminas 1-9) y enviados al cliente. Pendiente: presupuesto de obra de Manolo para poder cerrar el trabajo. Presupuesto de ejecucion estimado con Manolo: ~20.000 EUR (pendiente de cerrar cifra exacta). Honorarios de diseno y direccion de obra de David: pago en dos partes, 50% al aceptar el presupuesto y 50% a la finalizacion de la obra, mas IVA."
     }
   ]
 }
