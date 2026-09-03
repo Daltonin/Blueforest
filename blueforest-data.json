@@ -2120,6 +2120,13 @@
           "prioridad": "media",
           "responsable": "David",
           "id": "t4"
+        },
+        {
+          "titulo": "Reunión con Fouad al volver de vacaciones: presentar el proyecto detallado con opciones de acabados",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "David",
+          "id": "t5"
         }
       ],
       "proveedores": [],
