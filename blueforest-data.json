@@ -211,6 +211,13 @@
           "prioridad": "alta",
           "responsable": "",
           "id": "t24"
+        },
+        {
+          "titulo": "Ajustar mesa",
+          "estado": "pendiente",
+          "prioridad": "baja",
+          "responsable": "",
+          "id": "t25"
         }
       ],
       "proveedores": [
