@@ -2106,6 +2106,13 @@
           "prioridad": "media",
           "responsable": "David",
           "id": "t2"
+        },
+        {
+          "titulo": "Facturar a Fouad el 50% de honorarios de diseño y dirección de obra al aceptar el presupuesto",
+          "estado": "pendiente",
+          "prioridad": "media",
+          "responsable": "David",
+          "id": "t3"
         }
       ],
       "proveedores": [],
