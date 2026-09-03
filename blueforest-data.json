@@ -204,6 +204,13 @@
           "prioridad": "media",
           "responsable": "",
           "id": "t23"
+        },
+        {
+          "titulo": "Instalar puerta corredera (verificar plomo del tabique antes de montar las guías — pc74)",
+          "estado": "pendiente",
+          "prioridad": "alta",
+          "responsable": "",
+          "id": "t24"
         }
       ],
       "proveedores": [
